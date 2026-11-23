@@ -1,8 +1,8 @@
 class Opencascade < Formula
   desc "3D modeling and numerical simulation software for CAD/CAM/CAE"
   homepage "https://dev.opencascade.org/"
-  url "https://github.com/Open-Cascade-SAS/OCCT/archive/refs/tags/V8_0_1.tar.gz"
-  sha256 "0d6913eae4bcc09a3653ceced6dda1aec11c35a1513d4c06762c9b002092c68a"
+  url "https://github.com/Open-Cascade-SAS/OCCT/archive/refs/tags/V8_0_2.tar.gz"
+  sha256 "4b3ecaa559cd4f772a8a763668ca692bf79a36b05c41e8871139eb8d4625de9c"
   license "LGPL-2.1-only"
   compatibility_version 1
 
